@@ -1,6 +1,6 @@
-// AUTOR: 
-// FECHA: 
-// EMAIL: 
+// AUTOR: Javier Herrero Durán 
+// FECHA: 24/02/2026
+// EMAIL: alu0101842028@ull.edu.es
 // VERSION: 1.0
 // ASIGNATURA: Algoritmos y Estructuras de Datos
 // PRÁCTICA Nº: 1
@@ -101,8 +101,8 @@ rational_t::substract(const rational_t& r)
 { rational_t sub;
   int num = get_num() * r.get_den() + get_den() * (- r.get_num());
   int den = get_den() * r.get_den();
-  sum.set_num(num);
-  sum.set_den(den);
+  sub.set_num(num);
+  sub.set_den(den);
   return sub;
 }
 
@@ -113,8 +113,8 @@ rational_t::multiply(const rational_t& r)
 { rational_t mult;
   int num = get_num() * r.get_num();
   int den = get_den() * r.get_den();
-  sum.set_num(num);
-  sum.set_den(den);
+  mult.set_num(num);
+  mult.set_den(den);
   return mult;
 }
 
@@ -125,8 +125,8 @@ rational_t::divide(const rational_t& r)
 { rational_t div;
   int num = get_num() * r.get_den();
   int den = get_den() * r.get_num();
-  sum.set_num(num);
-  sum.set_den(den);
+  div.set_num(num);
+  div.set_den(den);
   return div;
 }
 
