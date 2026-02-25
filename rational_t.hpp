@@ -1,11 +1,11 @@
 /* AUTOR: Javier Herrero Durán
-// FECHA: 24/02/2026
-// EMAIL: alu0101842028@ull.edu.es
-// VERSION: 1.0
-// ASIGNATURA: Algoritmos y Estructuras de Datos
-// PRÁCTICA Nº: 1
-// COMENTARIOS: se indican entre [] las pautas de estilo aplicadas de
-//              "C++ Programming Style Guidelines"
+*  FECHA: 24/02/2026
+*  EMAIL: alu0101842028@ull.edu.es
+*  VERSION: 1.0
+*  ASIGNATURA: Algoritmos y Estructuras de Datos
+*  PRÁCTICA Nº: 1
+*  COMENTARIOS: se indican entre [] las pautas de estilo aplicadas de
+*               "C++ Programming Style Guidelines"
 */              https://geosoft.no/development/cppstyle.html
 
 // pauta de estilo [92]: comentarios multilínea usando solo "//"
