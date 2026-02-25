@@ -1,4 +1,4 @@
-// AUTOR: Javier Herrero Durán
+/* AUTOR: Javier Herrero Durán
 // FECHA: 24/02/2026
 // EMAIL: alu0101842028@ull.edu.es
 // VERSION: 1.0
@@ -7,7 +7,7 @@
 // COMENTARIOS: se indican entre [] las pautas de estilo aplicadas de
 //              "C++ Programming Style Guidelines"
 //              https://geosoft.no/development/cppstyle.html
-// COMPILACIÓN: g++ -g rational_t.cpp main_rational_t.cpp -o main_rational_t
+*/ COMPILACIÓN: g++ -g rational_t.cpp main_rational_t.cpp -o main_rational_t
 
 // pauta de estilo [92]: comentarios multilínea usando solo "//"
 
